@@ -130,9 +130,7 @@ public class Shell extends JFrame{
 		{
 			e.getMessage();
 		}
-
-
-	}
+	    }
 	
 	private void limpiar(){
 		tResultado.setText("");
